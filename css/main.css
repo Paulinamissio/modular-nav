@@ -28,8 +28,12 @@ body {
   width: 100%;
 }
 
-h1 {
+.logo {
+  text-align: center;
+}
 
+.nav {
+  text-align: center;
 }
 
 li {
