@@ -31,19 +31,21 @@ body {
 li {
   display: inline-block;
 }
+ .grid {
+   background-color: #e2e2e2;
+ }
 
 .nav a {
   list-style-type: square;
   display: inline-block;
-  background-color: blue;
-  color: white;
+  color: #0074d9;
   padding: .3em;
   margin: 0;
-  border-radius: 4px;
   border: 3px;
 }
 
 .nav a:hover {
-  background-color: #b20953;
+  background-color: #0074d9;
+  color: white;
   display: inline-block;
 }
